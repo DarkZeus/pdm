@@ -5,4 +5,8 @@ $(function() {
     return false;
   })
 })
-})(jQuery)
+})(jQuery);
+
+$('#tab-container').easytabs({
+  animate: false,
+});
