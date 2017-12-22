@@ -6,7 +6,3 @@ $(function() {
   })
 })
 })(jQuery);
-
-$('#tab-container').easytabs({
-  animate: false,
-});
